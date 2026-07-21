@@ -36,16 +36,23 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cvue%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Csass%2Cvite%2Credux%2Cfigma%2Cthreejs&theme=dark" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cvue%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Csass%2Cvite%2Credux%2Cfigma%2Cthreejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cvue%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Csass%2Cvite%2Credux%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
         </picture>
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
-            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cnestjs%2Cgraphql%2Cpython%2Cgo%2Cmongodb%2Cmysql%2Cpostgres%2Credis%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cnestjs%2Cgraphql%2Cpython%2Cgo%2Cmongodb%2Cmysql%2Cpostgres%2Credis%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cnestjs%2Cgraphql%2Cpython%2Cgo%2Cmongodb%2Cmysql%2Cpostgres%2Credis%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+        </picture>
+          <br />
+          <!-- third row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithubactions%2Cdocker%2Ckubernetes%2Caws%2Clinux%2Cnginx%2Cbash%2Cjest%2Ccypress%2Cpostman%2Cterraform&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Cgithubactions%2Cdocker%2Ckubernetes%2Caws%2Clinux%2Cnginx%2Cbash%2Cjest%2Ccypress%2Cpostman%2Cterraform&theme=light" />
+            <img src="https://skillicons.dev/icons?i=git%2Cgithubactions%2Cdocker%2Ckubernetes%2Caws%2Clinux%2Cnginx%2Cbash%2Cjest%2Ccypress%2Cpostman%2Cterraform&theme=light" alt="skills - 3" />
         </picture>
 
   </a>
