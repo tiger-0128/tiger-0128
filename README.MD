@@ -11,14 +11,14 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Senior Full Stack Developer 💻 building modern web apps end to end.
   <br />
   <br />
-  🎓 Currently a high school student.
+  ⚡ Specialized in Next.js, React, Node.js, and scalable APIs.
   <br />
-  💻 I love to learn new technologies and frameworks.
+  🛠️ Focused on clean architecture, performance, and great UX.
   <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  🚀 Always shipping, learning, and leveling up the stack.
   <br />
 </p>
 
