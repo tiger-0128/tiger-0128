@@ -81,9 +81,9 @@
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tiger-0128/tiger-0128/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/tiger-0128/tiger-0128/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/tiger-0128/tiger-0128/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiger-0128/tiger-0128/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/tiger-0128/tiger-0128/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/tiger-0128/tiger-0128/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
   <br />
   <br />
@@ -109,9 +109,9 @@
   <!-- github stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tiger-0128&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=tiger-0128&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=tiger-0128&show_icons=true&theme=default&border_color=61dafb" alt="tiger-0128's github stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=tiger-0128&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.shion.dev/api?username=tiger-0128&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.shion.dev/api?username=tiger-0128&show_icons=true&theme=default&border_color=61dafb" alt="tiger-0128's github stats" />
       </picture>
     </a>
   </div>
