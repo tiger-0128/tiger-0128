@@ -22,12 +22,6 @@
   <br />
 </p>
 
-<!-- social handles -->
-<div align="center"> 
-  <!-- gmail -->
-  <a href="mailto:neonpanda270@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
 <hr />
 <!-- skills -->
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
